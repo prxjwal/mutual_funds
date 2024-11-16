@@ -7,16 +7,17 @@
 </p>
 
 
-How to Run
+**How to Run**
 
-Clone the Repository
+**Clone the Repository**
    
-   git clone https://github.com/prxjwal/mutual_funds.git
-   cd project1
+   `git clone https://github.com/prxjwal/mutual_funds.git`
+   `cd project1`
 
-Install Dependencies
+**Install Dependencies**
 
-   flutter pub get
+   `flutter pub get`
 
-Run the App
-  flutter run
+**Run the App**
+
+  `flutter run`
