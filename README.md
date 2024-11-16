@@ -12,6 +12,7 @@
 **Clone the Repository**
    
    `git clone https://github.com/prxjwal/mutual_funds.git`
+   
    `cd project1`
 
 **Install Dependencies**
