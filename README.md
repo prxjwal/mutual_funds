@@ -1,16 +1,5 @@
-# project1
+Mutual Fund App UI
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![1](https://github.com/user-attachments/assets/17ec0715-6b95-4745-807a-93829af05ecf)
+![2](https://github.com/user-attachments/assets/2bd5a6fc-e56b-46b8-94ed-b625a170bbf9)
+![3](https://github.com/user-attachments/assets/db4836f7-5354-4c63-8995-627fdd8d14d6)
